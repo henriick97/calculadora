@@ -1,0 +1,33 @@
+
+
+body {
+  margin:20px;
+  background-color: violet;
+}
+input, button {
+    display: block;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 17px;
+    }
+    
+    div {
+      color: greenyellow;
+      font-weight: bold;
+      font-size:23px;
+     }
+     
+    h1 {
+      font-size: 20px;
+      COLOR:black;
+      
+    }
+    
+    #m,#n,#b {
+      color:green;
+      border-radius: 100px;
+      }
+    
+    #a:hover {
+      color:purple;
+    }
